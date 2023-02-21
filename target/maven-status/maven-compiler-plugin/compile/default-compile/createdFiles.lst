@@ -1,0 +1,16 @@
+tg/univlome/epl/boutique/entites/ProduitAchete.class
+tg/univlome/epl/boutique/entites/Personne.class
+tg/univlome/epl/boutique/messages/TypeMessage.class
+tg/univlome/epl/boutique/messages/CategorieMessage.class
+tg/univlome/epl/boutique/entites/Client.class
+tg/univlome/epl/boutique/entites/Employe.class
+tg/univlome/epl/boutique/entites/Produit.class
+tg/univlome/epl/boutique/messages/AchatMessage.class
+tg/univlome/epl/boutique/messages/ClientMessage.class
+tg/univlome/epl/boutique/messages/ProduitMessage.class
+tg/univlome/epl/boutique/entites/BoutiqueApi.class
+tg/univlome/epl/boutique/messages/ProduitAcheteMessage.class
+tg/univlome/epl/boutique/messages/PersonneMessage.class
+tg/univlome/epl/boutique/entites/Achat.class
+tg/univlome/epl/boutique/messages/EmployeMessage.class
+tg/univlome/epl/boutique/entites/Categorie.class
